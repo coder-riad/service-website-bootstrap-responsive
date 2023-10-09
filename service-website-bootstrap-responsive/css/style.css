@@ -1,0 +1,27 @@
+*{
+
+}
+.vh{
+	height: 100vh;
+}
+
+.bottom-item{
+	width: 90px;
+	height: 3px;
+	background-color: gray;
+	margin: 0 auto;
+}
+.h-240{
+	height: 240px;
+}
+.background{	
+	background-image: url("../img/bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.contact-image{
+	height: 385px;
+}
+.my-caption{
+	top: 210px;
+}
